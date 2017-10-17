@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="stylesheet.css" type="text/css" rel="stylesheet">
+    <div class="nav">
+    <ul class="navigation">
+    <li> Home </li>
+    <li> Knitted </li>
+    <li> Glass </li>
+    <li> Soaks </li>
+    <li> Sales </li>
+    <li> About </li>
+    <li> Contact </li>
+    </ul>
+    </div>
+  </head>
+ 
+ <body>
+ <div class="title">
+ <h1> Plucky's Handmade Designs </h1>
+  <p> Stuff </p>
+  <img src:"https://unsplash.com/photos/5fIoyoKlz7A">
+  </div>
+ </body>
+  <footer>
+  </footer>
+
+
+
+
+
+</html>
